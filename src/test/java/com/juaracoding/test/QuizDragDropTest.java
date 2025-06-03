@@ -52,7 +52,7 @@ public class QuizDragDropTest extends BaseTest{
         ScreenshotHelper.takeScreenshot("ujianpraktikminggu-3_after.png", driver);
 
         for (String[] pair : keyElements) {
-            dragable(pair[0], "dropContent"); // "dropContent" = ID div kiri
+            dragable(pair[0], "dropContent");
             Thread.sleep(1000);
         }
 

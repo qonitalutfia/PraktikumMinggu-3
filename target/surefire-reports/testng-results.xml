@@ -2,34 +2,34 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[<a href='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujian3Test_before.png' target='_blank'>Screnshoot</a>]]>
+      <![CDATA[<a href='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujianpraktikminggu-3_before.png' target='_blank'>Screnshoot</a>]]>
     </line>
     <line>
-      <![CDATA[<br /><img src='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujian3Test_before.png' style='width: 20vw;' />]]>
+      <![CDATA[<br /><img src='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujianpraktikminggu-3_before.png' style='width: 20vw;' />]]>
     </line>
     <line>
-      <![CDATA[<a href='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujian3Test_after.png' target='_blank'>Screnshoot</a>]]>
+      <![CDATA[<a href='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujianpraktikminggu-3_after.png' target='_blank'>Screnshoot</a>]]>
     </line>
     <line>
-      <![CDATA[<br /><img src='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujian3Test_after.png' style='width: 20vw;' />]]>
+      <![CDATA[<br /><img src='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujianpraktikminggu-3_after.png' style='width: 20vw;' />]]>
     </line>
     <line>
-      <![CDATA[<a href='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujian3Test_back.png' target='_blank'>Screnshoot</a>]]>
+      <![CDATA[<a href='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujianpraktikminggu-3_back.png' target='_blank'>Screnshoot</a>]]>
     </line>
     <line>
-      <![CDATA[<br /><img src='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujian3Test_back.png' style='width: 20vw;' />]]>
+      <![CDATA[<br /><img src='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujianpraktikminggu-3_back.png' style='width: 20vw;' />]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-06-03T08:14:48 WIB" name="Suite Test Drag Drop" finished-at="2025-06-03T08:15:16 WIB" duration-ms="27621">
+  <suite started-at="2025-06-03T12:55:39 WIB" name="Suite Test Drag Drop" finished-at="2025-06-03T12:56:10 WIB" duration-ms="30217">
     <groups>
     </groups>
-    <test started-at="2025-06-03T08:14:48 WIB" name="Ujian Praktikum 3" finished-at="2025-06-03T08:15:16 WIB" duration-ms="27621">
+    <test started-at="2025-06-03T12:55:39 WIB" name="Ujian Praktikum 3" finished-at="2025-06-03T12:56:10 WIB" duration-ms="30217">
       <class name="com.juaracoding.test.QuizDragDropTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.juaracoding.test.QuizDragDropTest@55e8ec2f]" started-at="2025-06-03T08:14:48 WIB" name="setup" finished-at="2025-06-03T08:14:48 WIB" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.juaracoding.test.QuizDragDropTest@2cac4385]" started-at="2025-06-03T12:55:39 WIB" name="setup" finished-at="2025-06-03T12:55:39 WIB" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:com.juaracoding.test.QuizDragDropTest@55e8ec2f]" started-at="2025-06-03T08:14:48 WIB" name="init" finished-at="2025-06-03T08:14:51 WIB" duration-ms="2309" status="PASS">
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:com.juaracoding.test.QuizDragDropTest@2cac4385]" started-at="2025-06-03T12:55:39 WIB" name="init" finished-at="2025-06-03T12:55:44 WIB" duration-ms="4357" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -40,25 +40,25 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="ujian3Test()[pri:0, instance:com.juaracoding.test.QuizDragDropTest@55e8ec2f]" started-at="2025-06-03T08:14:51 WIB" name="ujian3Test" finished-at="2025-06-03T08:15:16 WIB" duration-ms="25291" status="PASS">
+        <test-method signature="ujian3Test()[pri:0, instance:com.juaracoding.test.QuizDragDropTest@2cac4385]" started-at="2025-06-03T12:55:44 WIB" name="ujian3Test" finished-at="2025-06-03T12:56:10 WIB" duration-ms="25836" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<a href='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujian3Test_before.png' target='_blank'>Screnshoot</a>]]>
+              <![CDATA[<a href='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujianpraktikminggu-3_before.png' target='_blank'>Screnshoot</a>]]>
             </line>
             <line>
-              <![CDATA[<br /><img src='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujian3Test_before.png' style='width: 20vw;' />]]>
+              <![CDATA[<br /><img src='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujianpraktikminggu-3_before.png' style='width: 20vw;' />]]>
             </line>
             <line>
-              <![CDATA[<a href='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujian3Test_after.png' target='_blank'>Screnshoot</a>]]>
+              <![CDATA[<a href='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujianpraktikminggu-3_after.png' target='_blank'>Screnshoot</a>]]>
             </line>
             <line>
-              <![CDATA[<br /><img src='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujian3Test_after.png' style='width: 20vw;' />]]>
+              <![CDATA[<br /><img src='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujianpraktikminggu-3_after.png' style='width: 20vw;' />]]>
             </line>
             <line>
-              <![CDATA[<a href='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujian3Test_back.png' target='_blank'>Screnshoot</a>]]>
+              <![CDATA[<a href='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujianpraktikminggu-3_back.png' target='_blank'>Screnshoot</a>]]>
             </line>
             <line>
-              <![CDATA[<br /><img src='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujian3Test_back.png' style='width: 20vw;' />]]>
+              <![CDATA[<br /><img src='/Users/qonitalutfia/Documents/bootcamp/JuaraCodingEcom/screenshots/ujianpraktikminggu-3_back.png' style='width: 20vw;' />]]>
             </line>
           </reporter-output>
         </test-method> <!-- ujian3Test -->
